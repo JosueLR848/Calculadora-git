@@ -4,7 +4,7 @@
     {
         while (true)
         {
-            Console.WriteLine("Calculadora básica");
+            Console.WriteLine("Calculadora");
             Console.WriteLine("1. Suma");
             Console.WriteLine("2. Resta");
             Console.WriteLine("3. Multiplicación");
@@ -58,7 +58,9 @@
             else
             {
                 Console.WriteLine("Opción inválida. Por favor, elige una opción válida.");
+
             }
+            Console.WriteLine("Hecho por Nicole,Josué.");
         }
     }
 }
