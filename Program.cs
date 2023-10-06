@@ -60,7 +60,7 @@
                 Console.WriteLine("Opción inválida. Por favor, elige una opción válida.");
 
             }
-            Console.WriteLine("Hecho por Nicole,Josué.");
+            Console.WriteLine("Hecho por Nicole Cisneros Miranda,Josué López Rojas.");
         }
     }
 }
